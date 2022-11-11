@@ -19,7 +19,7 @@
 ### Top Repositories
 
 <a href="https://github.com/wavyhair/fleet-dark">
-  <img align="center" src="https://www.jetbrains.com/_assets/www/fleet/inc/overview-content/img/fleet-logo.65f4a04c59fc3ba93bb5e181050891c5.png" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wavyhair&repo=fleet-dark&theme=cobalt" />
 </a>
 <!--
 **wavyhair/wavyhair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
